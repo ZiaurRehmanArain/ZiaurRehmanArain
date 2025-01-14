@@ -22,5 +22,6 @@ At Aptech, where I mentor students in software development and programming conce
 <img width="40px" src="https://camo.githubusercontent.com/ae4debf8f63aa4ed4f3e15c526a1922250fc27014858772c6ebc26e09e0630dd/68747470733a2f2f7974332e67677068742e636f6d2f7974632f414b65644f4c51563741532d75536d674437526c3751736d68617a476a6e325851474e496b71595569736c6862513d733930302d632d6b2d63307830306666666666662d6e6f2d726a"/>
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+    <img width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyu74dDPHYpCINs5AIb8MYSq2-1gScU0y9g&s"/>
   </div>
 
